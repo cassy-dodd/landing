@@ -1,0 +1,29 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-image: linear-gradient(rgba(55,29,22,1), rgba(55,29,22,0.4)), url("https://images.unsplash.com/photo-1589874497556-65019ae69438?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+  margin-top: 60px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+  height: 20%;
+}
+
+
+.links ul {
+  list-style: none;
+  display: inline;
+}
+
+.inline-list li {
+  display: inline;
+  padding: 10px;
+}
+
+.inline-list a {
+  color: #fff5ea;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.footer p {
+  text-align: center;
+}
